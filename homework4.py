@@ -1,4 +1,5 @@
 my_string=input('Введите имя жены Ивана Царевича: ')
+print(len(my_string))
 print('Герои наших детских сказок Иван Царевич и',my_string)
 print(my_string .upper())
 print(my_string .lower())
